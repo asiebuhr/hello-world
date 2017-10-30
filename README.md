@@ -1,2 +1,2 @@
 # hello-world
-My general interests/goals
+I'm an aspiring data and climate scientist, interested in analysing data regarding greenhouse gas mitigation and energy efficiency projects
